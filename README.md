@@ -3,10 +3,9 @@ webpwn3r
 
 WebPwn3r - Web Applications Security Scanner.
 
-By Ebrahim Hegazy - @Zigoo0
+By ABHISHEK KAFLE
 
-Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo 
-
+Thanks:@kafle.com
 Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com
 
 How to use:
